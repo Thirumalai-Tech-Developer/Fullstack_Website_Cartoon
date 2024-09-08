@@ -27,5 +27,5 @@ app.get("/user", (re,res) => {
 })
 
 app.listen(8080,() => {
-    
+    console.log("lister")
 })
